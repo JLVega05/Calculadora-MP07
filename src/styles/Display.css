@@ -1,0 +1,10 @@
+.display {
+    background-color: #282c35;
+    font-size: 40px;
+    color: #fff;
+    text-align: right;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  

@@ -1,0 +1,22 @@
+.calculator {
+  width: 100%;
+  max-width: 300px;
+  margin: 50px auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #282c35;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 768px) {
+  .calculator {
+    max-width: 400px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .calculator {
+    max-width: 500px;
+  }
+}
